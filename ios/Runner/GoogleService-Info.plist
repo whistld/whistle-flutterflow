@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927859253118-5lkkhja27rc66v89s1cmicrslet57jld.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927859253118-5lkkhja27rc66v89s1cmicrslet57jld</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>927859253118-25duvu7lnija6avhjr7547lk1jep7088.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAke3c5P0GKVyt55ifYpUBcdiP76G_gbhI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927859253118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.matri.whistld</string>
+	<key>PROJECT_ID</key>
+	<string>whistl-d-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whistl-d-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927859253118:ios:adf6543c119d11ccef5d2f</string>
+</dict>
+</plist>

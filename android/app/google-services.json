@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "927859253118",
+    "project_id": "whistl-d-app",
+    "storage_bucket": "whistl-d-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927859253118:android:d5019887c46c376def5d2f",
+        "android_client_info": {
+          "package_name": "com.matri.whistld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927859253118-25duvu7lnija6avhjr7547lk1jep7088.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matri.whistld",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "927859253118-95tk9fbe1k1p0ukgk2q1888j0oibi6d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matri.whistld",
+            "certificate_hash": "05077510dfd57509571b0968363abf40395ef1aa"
+          }
+        },
+        {
+          "client_id": "927859253118-pfgdsipeb0d05sljtk5bqic5qn7e68ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEq9jN295U6xOMqTqu8C66ZJTPCy_gZtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927859253118-mri08d129ngan1mbvkfb6uof9nhirueb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927859253118-5lkkhja27rc66v89s1cmicrslet57jld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matri.whistld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
