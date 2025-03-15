@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = swathiraok
+	email = swathiraomce@gmail.com
+[remote "origin"]
+	url = git@github.com:whistld/whistle-flutterflow.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
